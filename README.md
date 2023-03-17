@@ -14,4 +14,4 @@ First, move into the `frontend` folder. Second, run ```npm install``` to include
 
 ## Getting Started (Part 3)
 
-Enter `http://localhost:3000/` in the address bar of your web broswer. You are now ready to use DemocraSee!
+Enter `http://localhost:3000/` in the address bar of your web browser. You are now ready to use DemocraSee!
